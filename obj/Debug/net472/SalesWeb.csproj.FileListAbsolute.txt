@@ -179,3 +179,4 @@ C:\Users\IoT Projects\Documents\ProjetosDeEstudo\PrimeiroProjeto\SalesWeb\SalesW
 C:\Users\IoT Projects\Documents\ProjetosDeEstudo\PrimeiroProjeto\SalesWeb\SalesWeb\bin\Debug\net472\MySqlConnector.dll
 C:\Users\IoT Projects\Documents\ProjetosDeEstudo\PrimeiroProjeto\SalesWeb\SalesWeb\bin\Debug\net472\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\IoT Projects\Documents\ProjetosDeEstudo\PrimeiroProjeto\SalesWeb\SalesWeb\bin\Debug\net472\Pomelo.JsonObject.dll
+C:\Users\IoT Projects\Documents\ProjetosDeEstudo\PrimeiroProjeto\SalesWeb\SalesWeb\obj\Debug\net472\Razor\Views\Sellers\View.cshtml.g.cs
